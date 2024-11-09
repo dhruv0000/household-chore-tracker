@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/household-chore-tracker/static/css/main.1d47814e.css",
+    "main.js": "/household-chore-tracker/static/js/main.1d67a816.js",
+    "static/js/453.784aa159.chunk.js": "/household-chore-tracker/static/js/453.784aa159.chunk.js",
+    "index.html": "/household-chore-tracker/index.html",
+    "main.1d47814e.css.map": "/household-chore-tracker/static/css/main.1d47814e.css.map",
+    "main.1d67a816.js.map": "/household-chore-tracker/static/js/main.1d67a816.js.map",
+    "453.784aa159.chunk.js.map": "/household-chore-tracker/static/js/453.784aa159.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d47814e.css",
+    "static/js/main.1d67a816.js"
+  ]
+}
